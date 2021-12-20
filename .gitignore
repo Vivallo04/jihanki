@@ -4,7 +4,7 @@
 *.vscode
 
 # C++
-/cmake-build-debug/
+Server/cmake-build-debug/
 
 # JavaScript ---------------------------------
 Launcher/node_modules/
