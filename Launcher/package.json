@@ -1,0 +1,15 @@
+{
+  "name": "JihankiLauncher",
+  "version": "1.0.0",
+  "description": "Launcher for Jihanki ",
+  "main": "main.js",
+  "author": "Vivallo",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "electron": "^16.0.5"
+  }, 
+  "scripts": {
+    "start": "electron ./src/main.js"
+  }
+}
