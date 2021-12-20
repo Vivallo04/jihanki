@@ -1,3 +1,0 @@
-C:\Users\andre\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5457.51\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\JHKServer.dir/objects.a
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\JHKServer.dir/objects.a @CMakeFiles\JHKServer.dir\objects1.rsp
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\JHKServer.dir/objects.a -Wl,--no-whole-archive -o JHKServer.exe -Wl,--out-implib,libJHKServer.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\JHKServer.dir\linklibs.rsp
